@@ -1,0 +1,2 @@
+* <table> 의 첫번째 tr에위치
+<tr><td></td><td>guard 님  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;로그아웃</td></tr>
